@@ -112,6 +112,7 @@ body {
 .site-nav .item-site-nav {
     margin-right: 50px;
     
+    
 }
 
 .site-nav .item-site-nav:last-child {
@@ -136,9 +137,10 @@ body {
     background-image: url(../images/telephone.svg);
     content: "";
     width: 10px;
-    height: 16px;
+    height: 12px;
     margin-right: 10px;
     display: inline-flex;
+
 
     background-repeat: no-repeat;
     background-size: contain;
@@ -212,6 +214,9 @@ body {
     background-color: var(--title-text-color);
     background-image: url(../images/hero-img.jpg);
     text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     padding-top: 200px;
     padding-bottom: 200px;
     
@@ -225,6 +230,7 @@ body {
 
     background-color: var(--accent-color);
     color: var(--additional-white-color);
+
     border-radius: 4px;
     border: none;
 
@@ -639,20 +645,22 @@ body {
     
 }
 
-.kik {
+.decoration {
     display: flex;
 
 
 }
 
 .social-footer-title {
-    ont-style: normal;
-font-weight: bold;
-font-size: 14px;
-line-height: 16px;
-letter-spacing: 0.03em;
-text-transform: uppercase;
-color: var(--additional-white-color);
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--additional-white-color);
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 
 .social-footer-list {
@@ -663,11 +671,23 @@ color: var(--additional-white-color);
     margin-right: 0;
 }
 
+.social-footer-list:hover {
+    background-color: var(--accent-color);
+    border-radius: 50%;
+}
 
-.fafa {
+
+.social-footer {
     margin-left: 70px;
     margin-right: 0;
 }
+
+/* .cont-nav .cont-link:hover, 
+.cont-nav .cont-link:focus {
+    color:var(--accent-color);
+} */
+
+
 
 .social-footer-instagram {
     display: inline-block;
