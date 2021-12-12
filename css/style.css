@@ -497,11 +497,11 @@ url(../images/hero-img.jpg);
 .social-link{
     fill: #afb1b8;
 
-    
 }
 
 .social-link:hover {
     fill: #FFFFFF;
+
 }
 
 .social-list:hover {
