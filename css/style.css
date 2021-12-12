@@ -142,38 +142,6 @@ body {
 }
     
 
-
-/* .mail::before{
-    background-image: url(../images/envelope.svg);
-    content: "";
-    width: 16px;
-    height: 12px;
-    display: inline-flex;
-    margin-right: 10px;
-    
-    background-repeat: no-repeat;
-
-
-} */
-
-
-/* .telephone::before {
-    background-image: url(../images/telephone.svg);
-    content: "";
-    width: 10px;
-    height: 12px;
-    margin-right: 10px;
-    display: inline-flex;
-    background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
-
-
-
-} */
-
-
-
 .site-nav .link {
     display: block;
     padding-top: 32px;
@@ -707,61 +675,6 @@ url(../images/hero-img.jpg);
 background-color: #2196F3
     
 }
-
-/* 
-.social-footer-instagram {
-    display: inline-block;
-    content: "";
-
-    width: 44px;
-    height: 44px;
-    background-image: url(../images/instagram-footer.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.1);
-
-}
-
-.social-footer-twitter {
-    display: inline-block;
-    content: "";
-
-    width: 44px;
-    height: 44px;
-    background-image: url(../images/twitter-footer.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.1);
-
-}
-.social-footer-facebook {
-    display: inline-block;
-    content: "";
-
-    width: 44px;
-    height: 44px;
-    background-image: url(../images/facebook-footer.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.1);
-
-}
-/* .social-footer-linkedin {
-    display: inline-block;
-    content: "";
-
-    width: 44px;
-    height: 44px;
-    background-image: url(../images/linkedin-footer.svg);
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 50%;
-    background-color: rgba(255, 255, 255, 0.1);
-
-} */ */
 
 
 /* Page Portfolio */
